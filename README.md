@@ -13,6 +13,7 @@ donde estos ceros indican que esta es una posición que puede
 tomar un número válido según las restricciones del sudoku.
 
 Las restricciones para una malla sudoku de 9x9 son:
+
 0. Cada fila debe tener exactamente un número del [1 -9]
 1. Cada columna debe tener exactamente un número del [1 -9]
 2. Cada bloque o submatriz debe tener exactamente un número del [1 -9]
