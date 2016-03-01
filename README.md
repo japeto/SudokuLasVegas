@@ -1,5 +1,5 @@
 # SudokuLasVegas
-Algoritmos probabilistas
+> Algoritmos probabilistas
 
 Sudoku es un juego rompecabezas numérico con una o
 varias soluciones que son combinatoriales, según los números
@@ -26,3 +26,5 @@ presenta una nueva metodología para resolver el rompecabezas
 sudoku, solo establece una estrategia de solución a este
 problema, basado en un algoritmo probabilista, como Las
 Vegas, hallando la solución mediante decisiones aleatorias.
+
+Este es el proyecto de curso 750098M SIMULACIÓN COMPUTACIONAL 2015-II, universidad del valle
